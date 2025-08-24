@@ -1,0 +1,5 @@
+{
+  "name": "EduTrack Realtime Dashboard",
+  "description": "EduTrack is a real-time dashboard for schools to monitor student performance, attendance, and engagement across multiple campuses. This application showcases the dashboard's key features with simulated live data and AI-powered insights.",
+  "requestFramePermissions": []
+}
