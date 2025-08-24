@@ -1,20 +1,43 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Portfolio Entry 2: EduTrack Realtime Dashboard 
 
-# Run and deploy your AI Studio app
+Overview 
 
-This contains everything you need to run your app locally.
+EduTrack is a real-time dashboard for schools to monitor student performance, attendance, and engagement across multiple campuses. 
 
-View your app in AI Studio: https://ai.studio/apps/drive/1fpXf1o_ndOGSLBXAOArvjI1OTrAz0VGK
+Problem 
 
-## Run Locally
+Schools lacked centralized, real-time visibility into student data, causing inefficiencies and delayed interventions. 
 
-**Prerequisites:**  Node.js
+ Rolele 
 
+Lead developer in a 3-person team, overseeing backend architecture and real-time features. 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Tech Stack 
+
+Frontend: React.js, Zustand 
+
+Backend: NestJS, GraphQL, Prisma, Redis 
+
+Realtime: Socket.IO 
+
+Database & Hosting: Supabase, Dockerized VPS 
+
+Key Features 
+
+Live updates for attendance and test scores 
+
+Automated reporting for school admins 
+
+Role-based dashboards for teachers, students, and parents 
+
+AI-assisted code refactoring and test scaffolding 
+
+Impact 
+
+Enabled real-time data access across 10+ schools 
+
+Reduced admin workload by 40% 
+
+Achieved 99.9% uptime with containerized deployment 
+
+Accelerated development cycles using AI tooling
